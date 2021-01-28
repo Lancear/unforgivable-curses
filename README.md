@@ -1,2 +1,2 @@
 # unforgivable-curses
-A mono-repo with playgrounds in which I experiment with random features
+Mono-Repo with Proof of Concepts that shouldn't exist
