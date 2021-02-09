@@ -1,0 +1,23 @@
++ data Person
++- String name
++_ int age
++! boolean isAlive
++- Address address
+#= name age isAlive address
+" name age address
+
+
+
++ data Teacher = Person
+!. double salary
+#= name isAlive address salary
+" name age salary
+
+
+
++ data Address
++- String countryCode
++- int zipcode
++- String street
++- int streetNr
+" countryCode zipcode street streetNr
