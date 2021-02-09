@@ -1,2 +1,2 @@
 # unforgivable-curses
-A Mono-Repo with Proof of Concepts that shouldn't exist
+A mono-repo with proof of concepts which shouldn't exist
