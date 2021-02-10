@@ -2,7 +2,7 @@ function INLINE_C(strings, ...jsScope) {
   const vars = new Map();
   const args = [];
 
-  // just a bad idea and with a minimal proof of concept
+  // just a bad idea with a minimal proof of concept
   // totally hardcoded, but could be connected with something like JSCPP
   let code = strings[0];
   let tokens = code.split('"').reduce((tokens, str, idx) => (idx % 2) ? [...tokens, `"${str}"`] : [...tokens, ...str.replace(/([;()=])/g, " $1").split(/[ \t\r\n]/ ).filter(str => str.length > 0)], []);
