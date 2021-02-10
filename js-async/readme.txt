@@ -1,0 +1,2 @@
+This is basically me experimenting why `Promise = class extends Promise {};` only affects async-await and not `.then()` calls.
+By adding that line of code all async-await code is delayed by 3 microtasks.
