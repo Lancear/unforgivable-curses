@@ -1,0 +1,1 @@
+Minimalistic implementation of the discord api whcih hides as much of the asynchronous stuff by using proxies and microtasks
