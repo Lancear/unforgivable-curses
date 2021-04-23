@@ -1,0 +1,24 @@
+a: 5;
+b: 3;
+sum := a + b;
+double: #(
+  return: %1 * 2;
+);
+modula: #[a, b](
+  return: a % b;
+);
+
+=> {
+  spawn { print "The sum of {a} and {b} is {sum}"; };
+
+  spawn {
+    twice: double sum;
+    => spawn { print "Twice the sum is {twice}" };
+  }
+
+  spawn {
+    print "Nobody gives a fuck about me";
+    _: 3;
+    print "The value of _ is {_}";
+  };
+}

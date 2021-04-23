@@ -1,0 +1,15 @@
+{
+  "tags": {
+    "allowUnknownTags": true,
+    "dictionaries": ["jsdoc"]
+  },
+  "source": {
+    "include": ["src", "package.json"],
+    "includePattern": ".m?jsx?$"
+  },
+  "opts": {
+    "destination": "js-docs",
+    "recurse": true,
+    "template": "./node_modules/minami"
+  }
+}

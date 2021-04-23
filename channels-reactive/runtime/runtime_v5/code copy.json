@@ -1,0 +1,20 @@
+{
+  "a": 5,
+  "b": 3,
+  "sum": ["+", "{a}", "{b}"],
+  "double": ["#fn", ["n"], {
+    "return": ["*", "{n}", 2]
+  }],
+  "->": [
+    ["print", "The sum of {a} and {b} is {sum}"],
+    {
+      "twice": ["double", "{sum}"],
+      "->": [["print", "Twice the sum is {twice}"]]
+    },
+    {
+      "__": ["print", "Nobody gives a fuck about me"],
+      "_": 3,
+      "": ["print", "The value of _ is {_}"]
+    }
+  ]
+}

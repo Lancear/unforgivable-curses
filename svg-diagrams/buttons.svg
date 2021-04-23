@@ -1,0 +1,132 @@
+<g id="buttons">
+  <g id="btn0" cursor="pointer">
+    <rect id="btn0-bg" x="100" y="20" width="180" height="28" fill="#8a28e6" stroke="#333333"/>
+    <text id="btn0-txt" alignment-baseline="central" text-anchor="middle" x="190" y="34" fill="#ffffff">Original</text>
+  </g>
+  <g id="btn1" cursor="pointer">
+    <rect id="btn1-bg" x="279" y="20" width="180" height="28" fill="#eeeeee" stroke="#333333"/>
+    <text id="btn1-txt" alignment-baseline="central" text-anchor="middle" x="369" y="34" fill="#000000">Ohne Muster</text>
+  </g>
+  <g id="btn2" cursor="pointer">
+    <rect id="btn2-bg" x="459" y="20" width="180" height="28" fill="#eeeeee" stroke="#333333"/>
+    <text id="btn2-txt" alignment-baseline="central" text-anchor="middle" x="549" y="34" fill="#000000">Mit Differenzfilter</text>
+  </g>
+  <g id="btn3" cursor="pointer">
+    <rect id="btn3-bg" x="639" y="20" width="180" height="28" fill="#eeeeee" stroke="#333333"/>
+    <text id="btn3-txt" alignment-baseline="central" text-anchor="middle" x="729" y="34" fill="#000000">Mit Dreiecksfilter</text>
+  </g>
+  <g id="btn4" cursor="pointer">
+    <rect id="btn4-bg" x="819" y="20" width="180" height="28" fill="#eeeeee" stroke="#333333"/>
+    <text id="btn4-txt" alignment-baseline="central" text-anchor="middle" x="909" y="34" fill="#000000">Mit FFT</text>
+  </g>
+
+  <animate href="#btn0-bg" attributeName="fill" begin="btn0.click" to="#8a28e6" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-txt" attributeName="fill" begin="btn0.click" to="#ffffff" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-bg" attributeName="fill" begin="btn1.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-txt" attributeName="fill" begin="btn1.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-bg" attributeName="fill" begin="btn2.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-txt" attributeName="fill" begin="btn2.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-bg" attributeName="fill" begin="btn3.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-txt" attributeName="fill" begin="btn3.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-bg" attributeName="fill" begin="btn4.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn0-txt" attributeName="fill" begin="btn4.click" to="#000000" dur="0.25s" fill="freeze"/>
+
+  <animate href="#graph0" attributeName="fill" begin="btn0.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph0" attributeName="stroke" begin="btn0.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="fill" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="stroke" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="fill" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="stroke" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="fill" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="stroke" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="fill" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="stroke" begin="btn0.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+
+  <animate href="#btn1-bg" attributeName="fill" begin="btn1.click" to="#8a28e6" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-txt" attributeName="fill" begin="btn1.click" to="#ffffff" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-bg" attributeName="fill" begin="btn0.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-txt" attributeName="fill" begin="btn0.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-bg" attributeName="fill" begin="btn2.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-txt" attributeName="fill" begin="btn2.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-bg" attributeName="fill" begin="btn3.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-txt" attributeName="fill" begin="btn3.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-bg" attributeName="fill" begin="btn4.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn1-txt" attributeName="fill" begin="btn4.click" to="#000000" dur="0.25s" fill="freeze"/>
+
+  <animate href="#graph0" attributeName="fill" begin="btn1.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph0" attributeName="stroke" begin="btn1.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="fill" begin="btn1.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="stroke" begin="btn1.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="fill" begin="btn1.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="stroke" begin="btn1.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="fill" begin="btn1.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="stroke" begin="btn1.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="fill" begin="btn1.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="stroke" begin="btn1.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+
+  <animate href="#btn2-bg" attributeName="fill" begin="btn2.click" to="#8a28e6" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-txt" attributeName="fill" begin="btn2.click" to="#ffffff" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-bg" attributeName="fill" begin="btn0.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-txt" attributeName="fill" begin="btn0.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-bg" attributeName="fill" begin="btn1.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-txt" attributeName="fill" begin="btn1.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-bg" attributeName="fill" begin="btn3.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-txt" attributeName="fill" begin="btn3.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-bg" attributeName="fill" begin="btn4.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn2-txt" attributeName="fill" begin="btn4.click" to="#000000" dur="0.25s" fill="freeze"/>
+
+  <animate href="#graph0" attributeName="fill" begin="btn2.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph0" attributeName="stroke" begin="btn2.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="fill" begin="btn2.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="stroke" begin="btn2.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="fill" begin="btn2.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="stroke" begin="btn2.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="fill" begin="btn2.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="stroke" begin="btn2.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="fill" begin="btn2.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="stroke" begin="btn2.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+
+  <animate href="#btn3-bg" attributeName="fill" begin="btn3.click" to="#8a28e6" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-txt" attributeName="fill" begin="btn3.click" to="#ffffff" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-bg" attributeName="fill" begin="btn0.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-txt" attributeName="fill" begin="btn0.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-bg" attributeName="fill" begin="btn1.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-txt" attributeName="fill" begin="btn1.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-bg" attributeName="fill" begin="btn2.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-txt" attributeName="fill" begin="btn2.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-bg" attributeName="fill" begin="btn4.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn3-txt" attributeName="fill" begin="btn4.click" to="#000000" dur="0.25s" fill="freeze"/>
+
+  <animate href="#graph0" attributeName="fill" begin="btn3.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph0" attributeName="stroke" begin="btn3.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="fill" begin="btn3.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="stroke" begin="btn3.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="fill" begin="btn3.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="stroke" begin="btn3.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="fill" begin="btn3.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="stroke" begin="btn3.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="fill" begin="btn3.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="stroke" begin="btn3.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+
+  <animate href="#btn4-bg" attributeName="fill" begin="btn4.click" to="#8a28e6" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-txt" attributeName="fill" begin="btn4.click" to="#ffffff" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-bg" attributeName="fill" begin="btn0.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-txt" attributeName="fill" begin="btn0.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-bg" attributeName="fill" begin="btn1.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-txt" attributeName="fill" begin="btn1.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-bg" attributeName="fill" begin="btn2.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-txt" attributeName="fill" begin="btn2.click" to="#000000" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-bg" attributeName="fill" begin="btn3.click" to="#eeeeee" dur="0.25s" fill="freeze"/>
+  <animate href="#btn4-txt" attributeName="fill" begin="btn3.click" to="#000000" dur="0.25s" fill="freeze"/>
+
+  <animate href="#graph0" attributeName="fill" begin="btn4.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph0" attributeName="stroke" begin="btn4.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="fill" begin="btn4.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph1" attributeName="stroke" begin="btn4.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="fill" begin="btn4.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph2" attributeName="stroke" begin="btn4.click" to="#ffffff00" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="fill" begin="btn4.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph3" attributeName="stroke" begin="btn4.click" to="#8a28e653" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="fill" begin="btn4.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+  <animate href="#graph4" attributeName="stroke" begin="btn4.click" to="#d85b49" dur="0.25s" fill="freeze"/>
+</g>
