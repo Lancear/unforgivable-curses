@@ -128,7 +128,7 @@ class Dbotjs {
       else if (Dbotjs.#is_message_link(words[0]) || Dbotjs.#is_message_link(words[words.length - 1])) {
         const link = Dbotjs.#is_message_link(words[0]) ? words[0] : words[words.length - 1];
         const comment = message.content.replace(new RegExp(`[\r\n\t ]?${link.split('.').join('\.')}[\r\n\t ]?`), '');
-    
+
         const originalMessage = await Dbotjs.#fetch_message_from_link(await message.channel, link);
         if (!originalMessage) return;
         message.channel.send( await Dbotjs.#create_messageEmbed(originalMessage, link, comment, message.author) ).then($=> message.delete()).catch(console.error);
@@ -145,19 +145,19 @@ class Dbotjs {
 
   static #is_message_link =(text)=> {
     const path = text.split(new RegExp('://|/'));
-    
+
     if (!['http', 'https'].includes(path[0]))
       return false;
-  
+
     if (!(path[1].endsWith('discordapp.com') || path[1].endsWith('discord.com')))
       return false;
-  
+
     if (path[2] !== 'channels')
       return false;
-  
+
     return (Dbotjs.#isInt(path[3]) && Dbotjs.#isInt(path[4]) && Dbotjs.#isInt(path[5]));
   };
-  
+
   static #isInt =(text)=> {
     try {
       parseInt(text);
@@ -183,7 +183,7 @@ class Dbotjs {
 
   static #get_ids =(link)=> {
     const path = link.split(new RegExp('://|/'));
-  
+
     return {
       guild:    path[3],
       channel:  path[4],
@@ -192,12 +192,12 @@ class Dbotjs {
   };
 
   static #get_gifUrl =(gif)=> {
-    return fetch(`${gif}.gif`).then(res => res.url).catch(err => null);      
+    return fetch(`${gif}.gif`).then(res => res.url).catch(err => null);
   };
-  
+
   static #fetch_message_from_link =async(replyChannel, link)=> {
     const ids = Dbotjs.#get_ids(link);
-  
+
     try {
       const guild = await Dbotjs.#bot.guilds[ids.guild];
       const channel = await guild.channels[ids.channel];
@@ -221,40 +221,40 @@ class Dbotjs {
     let authorAvatar = originalMessage.author.avatarUrl;
     let originalContent = originalMessage.content;
     let originalAttachments = originalMessage.attachments;
-  
+
     embed.setColor(Dbotjs.color);
 
     if (comment.length > 0) {
       authorName = author.username;
-      
+
       if (authorName !== originalMessage.author.username) {
         authorName += `, ${originalMessage.author.username}`;
       }
-      
+
       authorAvatar = author.avatarUrl;
     }
-  
+
     embed.setAuthor(authorName, authorAvatar);
     const words = originalMessage.content.split(/[ \t\r\n]/);
-  
+
     if (Dbotjs.#is_gif(words[0]) || Dbotjs.#is_gif(words[words.length - 1])) {
       const gif = Dbotjs.#is_gif(words[0]) ? words[0] : words[words.length - 1];
       const gifUrl = await Dbotjs.#get_gifUrl(gif);
-  
+
       if (gifUrl) {
         embed.setImage(gifUrl);
         originalContent = originalContent.replace(new RegExp(`[\r\n\t ]?${gif.split('.').join('\.')}[\r\n\t ]?`), '');
       }
     }
     else if (Dbotjs.#is_image(originalAttachments[0]) || Dbotjs.#is_image(originalAttachments[originalAttachments.length - 1])) {
-      const imageUrl = Dbotjs.#is_image(originalAttachments[0]) 
-        ? originalAttachments[0].url 
+      const imageUrl = Dbotjs.#is_image(originalAttachments[0])
+        ? originalAttachments[0].url
         : originalAttachments[originalAttachments.length - 1].url;
-  
+
       embed.setImage(imageUrl);
       originalAttachments = originalAttachments.filter(attachment => attachment.url !== imageUrl);
     }
-  
+
     if (comment.length > 0) {
       embed.addField(`Comment by ${author.username}`, comment);
       embed.addField(`Original message by ${originalMessage.author.username}`, `${originalContent}\n[Jump to message](${link})`);
@@ -262,7 +262,7 @@ class Dbotjs {
     else {
       embed.setDescription(`${originalContent}\n[Jump to message](${link})`);
     }
-  
+
     if (originalAttachments.length > 0) {
       const attachments = originalAttachments.map(attachment => `[${attachment.filename}](${attachment.url})`);
       embed.addField('Attachments', attachments.join(', '));
