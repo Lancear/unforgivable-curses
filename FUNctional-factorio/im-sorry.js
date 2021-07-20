@@ -23,7 +23,7 @@ class Counter extends Factory {
   /** 
    * @producer
    */
-   initValue() {
+  initValue() {
     return 0;
   }
 
