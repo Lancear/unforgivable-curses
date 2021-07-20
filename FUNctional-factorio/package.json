@@ -1,0 +1,8 @@
+{
+  "name": "functional-factorio",
+  "main": "im-sorry.js",
+  "type": "module",
+  "scripts": {
+    "start": "node im-sorry"
+  }
+}
