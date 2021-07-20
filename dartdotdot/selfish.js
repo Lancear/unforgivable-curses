@@ -6,6 +6,7 @@ export default class SelfishValue {
 
     const wrappedValue = wrapPrimitive(value);
 
+    /* the proxy hides the self property ($) from the return value */
     return new Proxy(wrappedValue, { 
       get: (target, key) => {
         if (key === '$') return self;
