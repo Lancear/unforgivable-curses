@@ -11,7 +11,7 @@ export default class SelfishValue {
       get: (target, key) => {
         if (key === '$') return self;
         const prop = target[key];
-        /* Some methods wont work unless they are bound to the actual value instead of the proxy. */
+        /* some methods wont work unless they are bound to the actual value instead of the proxy. */
         return (typeof prop === 'function') ? prop.bind(target) : prop;
       }
     });
