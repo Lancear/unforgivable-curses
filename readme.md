@@ -8,4 +8,4 @@ unfinished/abandoned ideas, and feel free to use them as a source of inspiration
 experiments and projects. Just make sure you know what you are doing.
 
 > Have a question about one of these scripts/experiments?<br>
-> Feel free to add me on discord: Lancear#6961
+> Feel free to add me on discord: Lancear#1265
