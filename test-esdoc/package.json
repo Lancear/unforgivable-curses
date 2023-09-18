@@ -1,0 +1,21 @@
+{
+  "name": "test-esdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "generate-docs": "jsdoc -c .jsdoc.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "better-docs": "^2.3.2",
+    "docdash": "^1.2.0",
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "jsdoc": "^3.6.6",
+    "minami": "^1.2.3"
+  }
+}

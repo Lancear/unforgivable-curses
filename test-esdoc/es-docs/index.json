@@ -1,0 +1,1086 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/Calculator.js",
+    "content": "import CalculatorModes from './CalculatorModes.js';\r\n\r\n/**\r\n * A simple Calculator module\r\n */\r\nexport default class Calculator {\r\n\r\n  /**\r\n   * Adds two numbers\r\n   * @param {Number} a \r\n   * @param {Number} b \r\n   * @returns {Number} the sum\r\n   * \r\n   * const sum = Calculator.add(12, 15);\r\n   * // sum: 27\r\n   */\r\n  static add(a, b) {\r\n    return a + b;\r\n  }\r\n\r\n  /**\r\n   * Subtracts two numbers\r\n   * @param {Number} a \r\n   * @param {Number} b \r\n   * @returns {Number} the difference\r\n   */\r\n  static sub(a, b) {\r\n    return a - b;\r\n  }\r\n\r\n  /**\r\n   * Multiplies two numbers\r\n   * @param {Number} a \r\n   * @param {Number} b \r\n   * @returns {Number} the product\r\n   */\r\n  static mul(a, b) {\r\n    return a * b;\r\n  }\r\n\r\n  /**\r\n   * Divides two numbers\r\n   * @param {Number} a \r\n   * @param {Number} b non-zero number\r\n   * @returns {Number} the quotient\r\n   */\r\n  static div(a, b) {\r\n    if (b === 0) throw new Error('No division by 0 allowed!');\r\n    return a / b;\r\n  }\r\n\r\n}\r\n\r\n/**\r\n * @type {CalculatorModes}\r\n */\r\nexport const mode = CalculatorModes.normal;\r\n",
+    "static": true,
+    "longname": "/mnt/c/Users/User/Desktop/test-esdoc/src/Calculator.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "Calculator",
+    "memberof": "src/Calculator.js",
+    "static": true,
+    "longname": "src/Calculator.js~Calculator",
+    "access": "public",
+    "export": true,
+    "importPath": "test-esdoc/src/Calculator.js",
+    "importStyle": "Calculator",
+    "description": "A simple Calculator module",
+    "lineNumber": 6,
+    "interface": false
+  },
+  {
+    "__docId__": 50,
+    "kind": "method",
+    "name": "add",
+    "memberof": "src/Calculator.js~Calculator",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Calculator.js~Calculator.add",
+    "access": "public",
+    "description": "Adds two numbers",
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} the sum\n\nconst sum = Calculator.add(12, 15);\n// sum: 27"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "the sum\n\nconst sum = Calculator.add(12, 15);\n// sum: 27"
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "method",
+    "name": "sub",
+    "memberof": "src/Calculator.js~Calculator",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Calculator.js~Calculator.sub",
+    "access": "public",
+    "description": "Subtracts two numbers",
+    "lineNumber": 27,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} the difference"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "the difference"
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "method",
+    "name": "mul",
+    "memberof": "src/Calculator.js~Calculator",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Calculator.js~Calculator.mul",
+    "access": "public",
+    "description": "Multiplies two numbers",
+    "lineNumber": 37,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} the product"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "the product"
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "div",
+    "memberof": "src/Calculator.js~Calculator",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Calculator.js~Calculator.div",
+    "access": "public",
+    "description": "Divides two numbers",
+    "lineNumber": 47,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} the quotient"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": "non-zero number"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "the quotient"
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "mode",
+    "memberof": "src/Calculator.js",
+    "static": true,
+    "longname": "src/Calculator.js~mode",
+    "access": "public",
+    "export": true,
+    "importPath": "test-esdoc/src/Calculator.js",
+    "importStyle": "{mode}",
+    "description": "",
+    "lineNumber": 57,
+    "type": {
+      "nullable": null,
+      "types": [
+        "CalculatorModes"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/CalculatorModes.js",
+    "content": "/**\r\n * All valid calculator modes\r\n * @enum {String}\r\n */\r\nconst CalculatorModes = {\r\n  normal: 'normal',\r\n  reversed: 'reversed',\r\n  unknown: 'unknown'\r\n};\r\n\r\nexport default CalculatorModes;\r\n",
+    "static": true,
+    "longname": "/mnt/c/Users/User/Desktop/test-esdoc/src/CalculatorModes.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "CalculatorModes",
+    "memberof": "src/CalculatorModes.js",
+    "static": true,
+    "longname": "src/CalculatorModes.js~CalculatorModes",
+    "access": "public",
+    "export": true,
+    "importPath": "test-esdoc/src/CalculatorModes.js",
+    "importStyle": "CalculatorModes",
+    "description": "All valid calculator modes",
+    "lineNumber": 5,
+    "unknown": [
+      {
+        "tagName": "@enum",
+        "tagValue": "{String}"
+      }
+    ],
+    "type": {
+      "types": [
+        "{\"normal\": string, \"reversed\": string, \"unknown\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/ReverseCalculator.js",
+    "content": "import CalculatorModes from './CalculatorModes.js';\r\n\r\n/**\r\n * A simple reverse calculator module\r\n */\r\nexport default class ReverseCalculator {\r\n\r\n  /**\r\n   * Reverses an addition of two numbers\r\n   * @param {Number} a \r\n   * @param {Number} b \r\n   * @returns {Number} the sum\r\n   */\r\n  static add(a, b) {\r\n    return a - b;\r\n  }\r\n\r\n  /**\r\n   * Reverses a subtraction of two numbers\r\n   * @param {Number} a \r\n   * @param {Number} b \r\n   * @returns {Number} the difference\r\n   */\r\n  static sub(a, b) {\r\n    return a + b;\r\n  }\r\n\r\n  /**\r\n   * Reverses a multiplication of two numbers\r\n   * @param {Number} a \r\n   * @param {Number} b \r\n   * @returns {Number} the product\r\n   */\r\n  static mul(a, b) {\r\n    return a / b;\r\n  }\r\n\r\n}\r\n\r\n/**\r\n * @type {CalculatorModes}\r\n */\r\nexport const mode = CalculatorModes.reversed;\r\n",
+    "static": true,
+    "longname": "/mnt/c/Users/User/Desktop/test-esdoc/src/ReverseCalculator.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "class",
+    "name": "ReverseCalculator",
+    "memberof": "src/ReverseCalculator.js",
+    "static": true,
+    "longname": "src/ReverseCalculator.js~ReverseCalculator",
+    "access": "public",
+    "export": true,
+    "importPath": "test-esdoc/src/ReverseCalculator.js",
+    "importStyle": "ReverseCalculator",
+    "description": "A simple reverse calculator module",
+    "lineNumber": 6,
+    "interface": false
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "add",
+    "memberof": "src/ReverseCalculator.js~ReverseCalculator",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ReverseCalculator.js~ReverseCalculator.add",
+    "access": "public",
+    "description": "Reverses an addition of two numbers",
+    "lineNumber": 14,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} the sum"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "the sum"
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "method",
+    "name": "sub",
+    "memberof": "src/ReverseCalculator.js~ReverseCalculator",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ReverseCalculator.js~ReverseCalculator.sub",
+    "access": "public",
+    "description": "Reverses a subtraction of two numbers",
+    "lineNumber": 24,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} the difference"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "the difference"
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "method",
+    "name": "mul",
+    "memberof": "src/ReverseCalculator.js~ReverseCalculator",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ReverseCalculator.js~ReverseCalculator.mul",
+    "access": "public",
+    "description": "Reverses a multiplication of two numbers",
+    "lineNumber": 34,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} the product"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "the product"
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "variable",
+    "name": "mode",
+    "memberof": "src/ReverseCalculator.js",
+    "static": true,
+    "longname": "src/ReverseCalculator.js~mode",
+    "access": "public",
+    "export": true,
+    "importPath": "test-esdoc/src/ReverseCalculator.js",
+    "importStyle": "{mode}",
+    "description": "",
+    "lineNumber": 43,
+    "type": {
+      "nullable": null,
+      "types": [
+        "CalculatorModes"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/app.js",
+    "content": "import Calculator from './Calculator.js'\r\n\r\nmain();\r\n\r\n/**\r\n * The entry point of this application\r\n */\r\nexport function main() {\r\n  console.log(Calculator.add(1, 3));\r\n  console.log(Calculator.sub(1, 3));\r\n  console.log(Calculator.mul(1, 3));\r\n  console.log(Calculator.div(1, 3));\r\n}\r\n",
+    "static": true,
+    "longname": "/mnt/c/Users/User/Desktop/test-esdoc/src/app.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "main",
+    "memberof": "src/app.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/app.js~main",
+    "access": "public",
+    "export": true,
+    "importPath": "test-esdoc",
+    "importStyle": "{main}",
+    "description": "The entry point of this application",
+    "lineNumber": 8,
+    "params": [],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": "",
+    "longname": "/mnt/c/Users/User/Desktop/test-esdoc/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"test-esdoc\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"./src/app.js\",\n  \"type\": \"module\",\n  \"scripts\": {\n    \"start\": \"node app\",\n    \"generate-docs\": \"jsdoc -c .jsdoc.json\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"devDependencies\": {\n    \"better-docs\": \"^2.3.2\",\n    \"docdash\": \"^1.2.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jsdoc\": \"^3.6.6\",\n    \"minami\": \"^1.2.3\"\n  }\n}\n",
+    "longname": "/mnt/c/Users/User/Desktop/test-esdoc/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

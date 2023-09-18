@@ -1,0 +1,11 @@
+{
+  "name": "interfacejs",
+  "version": "1.0.0",
+  "description": "Brings interfaces to JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "node testClient.js"
+  },
+  "author": "Lance Janssen",
+  "license": "ISC"
+}

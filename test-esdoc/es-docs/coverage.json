@@ -1,0 +1,27 @@
+{
+  "coverage": "100%",
+  "expectCount": 13,
+  "actualCount": 13,
+  "files": {
+    "src/Calculator.js": {
+      "expectCount": 6,
+      "actualCount": 6,
+      "undocumentLines": []
+    },
+    "src/CalculatorModes.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/ReverseCalculator.js": {
+      "expectCount": 5,
+      "actualCount": 5,
+      "undocumentLines": []
+    },
+    "src/app.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    }
+  }
+}

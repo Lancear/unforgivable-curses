@@ -1,0 +1,14 @@
+{
+  "name": "simple-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gui.js",
+  "scripts": {
+    "start": "qode ./gui.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.21.0"
+  }
+}

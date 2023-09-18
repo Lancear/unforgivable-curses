@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"start": "node src/main"
+	},
+	"dependencies": {
+		"typescript": "^4.8.2"
+	}
+}

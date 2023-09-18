@@ -1,0 +1,32 @@
+{
+  "name": "jsdoc",
+  "version": "1.0.0",
+  "description": "A simple jsdoc parser",
+  "main": "src/jsdoc",
+  "scripts": {
+    "start": "node src/jsdoc",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark-magic/jsdoc.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "javascript",
+    "documentation",
+    "parser",
+    "comments"
+  ],
+  "author": "dark-magic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dark-magic/jsdoc/issues"
+  },
+  "homepage": "https://github.com/dark-magic/jsdoc#readme",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "moch": "0.0.1",
+    "mocha": "^8.3.0"
+  }
+}
