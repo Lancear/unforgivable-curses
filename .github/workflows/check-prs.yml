@@ -1,8 +1,8 @@
 name: 'Close stale PRs'
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '29 10 * * *'
+    - cron: '32 10 * * *'
+  workflow_dispatch:
 
 permissions:
   pull-requests: write
