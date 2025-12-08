@@ -2,7 +2,7 @@ name: 'Close stale PRs'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * 1-5'
+    - cron: '15 11 * * 1-5'
 
 permissions:
   pull-requests: write
@@ -15,6 +15,6 @@ jobs:
         with:
           stale-pr-message: 'This issue is stale because it has been open 30 days with no activity. Remove stale label or comment to avoid this being closed in 7 days.'
           days-before-pr-stale: 0
-          days-before-pr-close: 7
+          days-before-pr-close: 0
           days-before-issue-stale: -1
           days-before-issue-close: -1
